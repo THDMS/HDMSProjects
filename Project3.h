@@ -11,6 +11,7 @@
 class TForm6 : public TForm
 {
 __published:	// IDE-managed Components
+	TStaticText *StaticText1;
 private:	// User declarations
 public:		// User declarations
 	__fastcall TForm6(TComponent* Owner);
